@@ -1,12 +1,12 @@
 body {
 	margin: 0;
-	background-color: #D0FFEF;
+	background-color: #FFFFFF;
 }
 
 .main-game {
 	align-items: center;
 	display: flex;
-	height: 100vh;
+	height: 60vh;
 	justify-content: center;
 }
 
@@ -17,8 +17,8 @@ body {
 	display: grid;
 	grid-template-areas: 'verde vermelho' 'amarelo azul';
 	grid-gap: 10px;
-	height: 700px;
-	width: 700px;
+	height: 500px;
+	width: 500px;
 }
 
 .blue {
